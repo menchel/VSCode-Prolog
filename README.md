@@ -12,7 +12,7 @@ This repository includes a configuration to set up a Prolog development environm
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Technion-Programming-Languages/VSCode-Prolog.git
+    git clone https://github.com/menchel/VSCode-Prolog.git
     cd VSCode-Prolog
     ```
 
